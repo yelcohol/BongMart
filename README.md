@@ -1,4 +1,4 @@
-# BongMart
+# BongMart Overview
 Market Management Application(QT program)
 
 @자세한 사항은 'BongMart_report'를 참고하시길 바랍니다.
@@ -9,7 +9,7 @@ Market Management Application(QT program)
 
 
 
-# BongMart 프로그램의 상세 기능
+[기능]
 
 *고객*
 1) 고객의 나이, 성별 등의 분석을 통해 고객 관리
@@ -20,7 +20,6 @@ Market Management Application(QT program)
 1) 직원들 출근/퇴근 시간 관리를 통해 출근 상태를 점검하고, 이를 기반으로 임금 인상을 결정할 수 있다.
 2) 직원들 업무시간 계산을 통해 임금 지급(세금/연장근무/휴일수당 포함)
 3) 직원 추가, 삭제
-
 
 *제품*
 1) 제품의 재고 관리 및 폐기
