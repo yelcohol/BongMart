@@ -8,7 +8,8 @@ Market Management Application(QT program)
 @QT에 구현되지 않는 기능이 몇가지 있습니다. 'bongmart_cmd'를 참고하시길 바랍니다.
 
 
-<프로그램의 상세 기능>
+
+# BongMart 프로그램의 상세 기능
 
 *고객*
 1) 고객의 나이, 성별 등의 분석을 통해 고객 관리
