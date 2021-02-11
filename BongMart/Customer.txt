@@ -1,0 +1,5 @@
+이름	성별	나이	전화번호
+Choi	Female	21	01096179212
+taeun	Male	21	01032223474
+ta	Male	21	01022223432
+ta	Male	0	
