@@ -8,7 +8,7 @@ Market Management Application(QT program)
 @QT에 구현되지 않는 기능이 몇가지 있습니다. 'bongmart_cmd'를 참고하시길 바랍니다.
 
 
-
+#
 @기능
 
 *고객*
