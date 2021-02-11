@@ -9,7 +9,7 @@ Market Management Application(QT program)
 
 
 
-[기능]
+@기능
 
 *고객*
 1) 고객의 나이, 성별 등의 분석을 통해 고객 관리
