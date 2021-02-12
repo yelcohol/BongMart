@@ -1,11 +1,11 @@
 # BongMart Overview
-Market Management Application(QT program)
+Market Management Application(Qt program)
 
-@자세한 사항은 'BongMart_report'를 참고하시길 바랍니다.
+@자세한 사항은 'BongMart_report.pdf' 파일을 참고하시길 바랍니다.
 
-@QT 프로그램은 'bongmart_QT(final)'입니다.
+@Qt 프로그램은 'BongMartQT' 폴더에 있는 'bongmart_QT(final).exe' 파일입니다.
 
-@QT에 구현되지 않는 기능이 몇가지 있습니다. 'bongmart_cmd'를 참고하시길 바랍니다.
+@Qt에 구현되지 않는 기능이 몇가지 있습니다. 'bongmart_cmd.exe' 파일을 참고하시길 바랍니다.
 
 @Team Project입니다.
 
